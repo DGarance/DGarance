@@ -16,7 +16,7 @@ En ce moment :
 - 📖Je continue d'apprendre de nouveaux langages et framework tel TypeScript / Bootstrap...
 - 😄 Pronoms : she/her, elle
 - 📫 Comment me contacter : garance.defrel@outlook.com
-- ⚡ Fun fact: 🏯Fan d'animation japonnaise, 💪 sportive
+- ⚡ Fun fact: 🏯Fan d'animation japonaise, 💪 sportive
 
 ## Langage et outils de programmation
 
