@@ -3,20 +3,16 @@
 <!--
 **DGarance/DGarance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Bonjour 👋! Récemment diplômée d'OpenClassrooms en tant que développeuse web Fullstack 🎉, je suis maintenant à la recherche d'opportunités pour approfondir mes compétences.
-
-Au delà de mes compétences solides en HTML, CSS et JavaScript, et je me spécialise actuellement dans la bibliothèque ReactJS.
-
-J'ai une préférence particulière pour le développement front-end, car j'adore donner vie aux maquettes en design UI/UX et les coder pour finalement voir le résultat de mon travail.
+Bonjour 👋! Diplômée d'un Bachelor Cybersécurité orienté DevOps (AIS), je travaille en administration systèmes et réseaux avec une approche orientée sécurité et automatisation. 
 
 En ce moment : 
 
-- 🔛Je travaille sur le développement ...
-- 🔜 Mon prochain projet ...
-- 📖Je continue d'apprendre de nouveaux langages et framework tel TypeScript / Bootstrap...
+- 🔛Je mets en ligne mes scripts et documentations techniques (GLPI, Bash, Infra) 
+- 🔜 Je continue à faire évoluer mon homelab Proxmox
+- 📖 J'approfondis mes connaissances en réseau et sécurité au quotidien
 - 😄 Pronoms : she/her, elle
 - 📫 Comment me contacter : garance.defrel@outlook.com
-- ⚡ Fun fact: 🏯Fan d'animation japonaise, 💪 sportive
+- ⚡ Fun fact: 🏯Fan d'animation japonaise et de culuture asiatique, 💪 sportive
 
 ## Langage et outils de programmation
 
